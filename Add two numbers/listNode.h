@@ -9,4 +9,4 @@ struct ListNode {
     ListNode(int x, ListNode* next) : val(x), next(next) {}
 };
 
-#endif // LISTNODE_H
+#endif 
